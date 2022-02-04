@@ -5,7 +5,7 @@ public class MyArray {
 	int[] intArr;
 	int count;
 	
-	public int ARRAY_SIZE;
+	public final int ARRAY_SIZE;
 	public static final int ERROR_NUM = Integer.MAX_VALUE;
 	
 	public MyArray() {
